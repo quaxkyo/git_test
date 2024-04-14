@@ -4,3 +4,12 @@ Trying to get used to making changes to files locally
 then commiting it to Github using the terminal and Git.
 # Trying to use [git add]. I have no idea when to use [git add] and [git commit -m]. LOL
 # Before trying it out, I'll guess that add is for single files, and commit -m is for multiple files that needs-- iteration?
+# ^ No. So I thought I messed up but it's all good and I did it.
+
+SUMMARY
+Commands:
+[git add file] -> used to add the file with changes (first step of commiting in Git)
+[git commit -m "some text"] -> second step of commiting
+[git push] / [git push origin main] -> commit from local to the remote origin main in Github (update the Github repo for the file)
+[git status] -> command to.. check the status of your file/s in Git..? =>
+[git log] -> list of all committed changes
